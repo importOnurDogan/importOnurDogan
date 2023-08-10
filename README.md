@@ -1,16 +1,19 @@
-### Hi there 👋
+MERHABALARRR )) 👋
 
-<!--
-**importOnurDogan/importOnurDogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ - 🌱 Su anda Python ve C# ogrenmekteyim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫  Bana ulasmak icin : dgn_onur@outlook.com 
+
+![developer](https://github.com/importOnurDogan/OnurDogan/assets/122278023/61031e04-bd3a-4ab7-9c5c-e22adc898507)
+
+
+Bilge Adam Akademi'de ileri seviye C# developer eğitimi almaktayım. 08/2023 - 02/2024
+
+Python programlama - Blender - agile metodları ve jira - veri kaydı
+ve raporlama - oyun motorları(Godot, Unreal Engine) gibi birçok
+alanda farkli yazilimlar kullamip deneyimledim.
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=importOnurDogan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/importOnurDogan/github-readme-stats#gh-dark-mode-only)
+
+
