@@ -5,7 +5,6 @@ MERHABALARRR )) 👋
 
 - 📫  Bana ulasmak icin : dgn_onur@outlook.com 
 
-![developer](https://github.com/importOnurDogan/OnurDogan/assets/122278023/61031e04-bd3a-4ab7-9c5c-e22adc898507)
 
 ![developer](https://github.com/importOnurDogan/importOnurDogan/assets/122278023/7b9c5f22-ecf7-4638-8565-cd3be5790a62)
 
