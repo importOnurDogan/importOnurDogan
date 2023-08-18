@@ -1,4 +1,4 @@
-MERHABALARRR )) 👋
+# MERHABALARRR )) 👋
 
 
  - 🌱 Su anda Python ve C# ogrenmekteyim
