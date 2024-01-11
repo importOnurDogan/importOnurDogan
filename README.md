@@ -1,7 +1,7 @@
 # MERHABALARRR )) 👋
 
 
- - 🌱 Su anda Python ve C# ogrenmekteyim
+- 🌱 Su anda Python ve C# ogrenmekteyim
 
 - 📫  Bana ulasmak icin : dgn_onur@outlook.com 
 
@@ -10,11 +10,14 @@
 
 
 
-Bilge Adam Akademi'de ileri seviye C# developer eğitimi almaktayım. 08/2023 - 02/2024
+Bilge Adam Akademi'de ileri seviye ASP.NET Core developer eğitimi almaktayım. 08/2023 - 04/2024
 
-Python programlama - Blender - agile metodları ve jira - veri kaydı
-ve raporlama - oyun motorları(Godot, Unreal Engine) gibi birçok
-alanda farkli yazilimlar kullamip deneyimledim.
+- Python programlama
+- ASP.NET Core C# programlama
+- Jira 
+- Microsoft Ofis 
+- oyun motorları (Godot, Unity) ve Blender
+gibi birçok farklı alanda yazılımlar kullanıp deneyimledim.
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=importOnurDogan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/importOnurDogan/github-readme-stats#gh-dark-mode-only)
 
